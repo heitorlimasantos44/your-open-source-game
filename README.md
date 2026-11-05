@@ -1,2 +1,4 @@
 # your-open-source-game
-IDK
+Welcome To YOSG
+you can uhh download the versions
+APK RELASING SOON
