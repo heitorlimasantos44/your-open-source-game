@@ -1,4 +1,4 @@
 # your-open-source-game
 Welcome To YOSG
-you can uhh download the versions
-APK RELASING SOON
+# You Can Create Games Because Its A Game Engine
+EXACTLY, also check releases
